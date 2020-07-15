@@ -1,6 +1,9 @@
 # ISAACS - Capstone Project
 
 > Gang Yao, Xi Chen, Kewei Sui, Hsin-pei Lee
+> Advisor: Alan Yang
 
 ## Project Video
-[![ISAACS](https://yt-embed.herokuapp.com/embed?v=LiW755wVe7k?start=7)](https://www.youtube.com/watch?v=LiW755wVe7k?start=7 "ISAACS")
+[![ISAACS](http://img.youtube.com/vi/LiW755wVe7k/0.jpg)](http://www.youtube.com/watch?v=LiW755wVe7k "ISAACS")
+
+## [Project Paper](/docs/ISAACS_Final_Paper.pdf)
